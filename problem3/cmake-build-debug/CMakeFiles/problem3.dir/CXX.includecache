@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raf/Development/projecteuler_cpp/problem3/main.cpp
+iostream
+/Users/raf/Development/projecteuler_cpp/problem3/iostream
+math.h
+/Users/raf/Development/projecteuler_cpp/problem3/math.h
+
