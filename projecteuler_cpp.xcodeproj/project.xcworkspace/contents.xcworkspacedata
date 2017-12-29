@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../problem1"
+      name = "problem1">
+      <Group
+         location = "group:cmake-build-debug"
+         name = "cmake-build-debug">
+         <Group
+            location = "group:CMakeFiles"
+            name = "CMakeFiles">
+            <Group
+               location = "group:CMakeTmp"
+               name = "CMakeTmp">
+            </Group>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:CMakeLists.txt">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>

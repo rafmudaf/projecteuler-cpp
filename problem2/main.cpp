@@ -1,3 +1,4 @@
+
 #include <iostream>
 
 using namespace std;
@@ -11,8 +12,7 @@ int main() {
     int count = 0;
     int sum   = 0;
     int pm1   = 1;
-    int p     = 1
-    ;
+    int p     = 1;
     int tmp   = 0;
 
     while (p < 4000000) {
